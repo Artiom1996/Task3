@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAmethyst">#9966CC</color>
+    <color name="colorAmazonite">#00C4B0</color>
+    <color name="colorAqua">#00FFFF</color>
+    <color name="colorAzure">#007FFF</color>
+    <color name="colorLime">#BFFF00</color>
+    <color name="colorBrightGreen">#66FF00</color>
+    <color name="colorClaret">#7F1734</color>
+    <color name="colorCorn">#FBEC5D</color>
+    <color name="colorDesert">#C19A6B</color>
+    <color name="colorDrab">#967117</color>
+
+    <color name="colorAccent">#0b1e76</color>
+    <color name="colorDefault">#d18a78</color>
+</resources>
